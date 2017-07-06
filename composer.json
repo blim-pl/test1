@@ -3,7 +3,7 @@
     "description": "Example class",
     "type": "library",
     "license": "MIT",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Sebastian Sliwinski",
