@@ -1,0 +1,13 @@
+{
+    "name": "blim-pl/test1",
+    "description": "Example class",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sebastian Sliwinski",
+            "email": "blim@go2.pl"
+        }
+    ],
+    "require": {}
+}
